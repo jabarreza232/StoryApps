@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="message_signup_page">Please fill in the data first!</string>
+    <string name="add_story">Add Story</string>
+    <string name="map_story">Map Story</string>
+    <string name="detail_story">Story Detail</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter data first!</string>
+    <string name="name">Name</string>
+
+
+    <string name="logout">Logout</string>
+    <string name="or">Or</string>
+    <string name="loading">Loading…</string>
+    <string name="description">Description</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="failure">Failure</string>
+    <string name="success">Success</string>
+    <string name="next">Next</string>
+    <string name="fail_take_picture">Failed to take pictures.</string>
+    <string name="fail_show_camera">Failed to bring up camera.</string>
+    <string name="description_ilustration_login">Login Image Illustration</string>
+    <string name="button_close">Page Close Button</string>
+    <string name="description_ilustration_sign_up">Illustration Image Sign Up</string>
+    <string name="preview_image_story">Story Image Preview</string>
+    <string name="button_take_picture">Take Picture Button</string>
+    <string name="button_switch_camera">Switch camera button (front/back)</string>
+    <string name="empty_text">Empty Data</string>
+    <string name="app_widget_description">List Stories Widget</string>
+    <string name="retry">Retry</string>
+
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_signup_page">Silahkan isi datamu terlebih dahulu!</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="detail_story">Detail Cerita</string>
+    <string name="map_story">Peta Cerita</string>
+
+    <string name="description_ilustration_login">Ilustrasi Gambar Login</string>
+    <string name="button_close">Tombol Tutup Halaman</string>
+    <string name="description_ilustration_sign_up">Ilustrasi Gambar Mendaftar</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan datamu terlebih dahulu!</string>
+    <string name="name">Nama</string>
+
+
+    <string name="logout">Keluar</string>
+    <string name="or">Atau</string>
+    <string name="loading">Menunggu…</string>
+    <string name="description">Deskripsi</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="failure">Gagal</string>
+    <string name="success">Berhasil</string>
+    <string name="next">Lanjut</string>
+    <string name="fail_take_picture">Gagal mengambil gambar.</string>
+    <string name="fail_show_camera">Gagal memunculkan kamera.</string>
+    <string name="preview_image_story">Preview Gambar Cerita</string>
+    <string name="button_take_picture">Tombol Ambil Gambar</string>
+    <string name="button_switch_camera">Tombol menukar kamera (depan/belakang)</string>
+
+    <string name="empty_text">Tidak Ada Data</string>
+    <string name="app_widget_description">widget list cerita</string>
+    <string name="retry">Coba Lagi</string>
+</resources>

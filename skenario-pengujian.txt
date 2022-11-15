@@ -1,0 +1,12 @@
+skenario pengujian storyapp: 
+-memastikan list story apakah tidak null
+-cek data list story apakah jumlah datanya sesuai yang di harapkan
+-cek data list story apakah kosong
+-ketika user login apakah berhasil atau tidak
+-ketika user upload photo berhasil atau tidak
+-ketika user register berhasil atau tidak
+
+
+
+
+
