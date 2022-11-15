@@ -4,10 +4,11 @@ dan mengikuti course dari dicoding yaitu <a href="https://www.dicoding.com/acade
 
 # Screenshot
 <p float="left">
-<img src="assets/ss1.jpg" height="400px"/>
-<img src="assets/ss3.jpg" height="400px"/>
-<img src="assets/ss4.jpg" height="400px"/>
-  <img src="assets/ss5.jpg" height="400px"/>
+<img src="assets/Screenshot_20221115_135242.png" height="400px"/>
+<img src="assets/Screenshot_20221115_135335.png" height="400px"/>
+<img src="assets/Screenshot_20221115_135432.png" height="400px"/>
+<img src="assets/Screenshot_20221115_135448.png" height="400px"/>
+<img src="assets/Screenshot_20221115_135500.png" height="400px"/>
 
 </p>
 
@@ -29,5 +30,5 @@ dan mengikuti course dari dicoding yaitu <a href="https://www.dicoding.com/acade
 - Firebase
 
 # Tools & Languange:
--Kotlin
--Android Studio
+- Kotlin
+- Android Studio
