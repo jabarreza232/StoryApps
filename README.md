@@ -31,6 +31,6 @@ dan mengikuti course dari dicoding yaitu <a href="https://www.dicoding.com/acade
 - Android Paging
 - Firebase
 
-# Tools & Languange:
+# Tools & Languange
 - Kotlin
 - Android Studio
