@@ -13,6 +13,8 @@ dan mengikuti course dari dicoding yaitu <a href="https://www.dicoding.com/acade
 </p>
 
 # Fitur-fitur yang di sediakan
+- [X] Login
+- [X] Register
 - [X] List cerita
 - [X] Upload cerita user menggunakan foto & lokasi
 - [X] Menampilkan semua titik lokasi user
