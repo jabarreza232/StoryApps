@@ -4,6 +4,7 @@ import android.animation.AnimatorSet
 import android.content.Context
 import android.content.Intent
 import android.os.Bundle
+import android.util.Log
 import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
@@ -23,6 +24,7 @@ import com.example.storyapp.preference.UserPreference
 import com.example.storyapp.repository.UserRepository
 import com.example.storyapp.viewmodel.CallBackResponse
 import com.example.storyapp.viewmodel.LoginViewModel
+import com.google.gson.Gson
 
 private val Context.dataStore: DataStore<Preferences> by preferencesDataStore(name = "settings")
 
@@ -73,10 +75,11 @@ class LoginActivity : AppCompatActivity(), CallBackResponse {
                         loginViewModel.login(email, password, this).observe(
                             this
                         ) {
-                            loginViewModel.saveUser(it.loginResult)
+                            val userModel = it.loginResult
+                            userModel.isLogin= true
+                            loginViewModel.saveUser(userModel)
                             onSuccess(it.message)
                         }
-
                     }
                 }
             } catch (exception: Exception) {

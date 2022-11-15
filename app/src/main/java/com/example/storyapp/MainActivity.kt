@@ -123,7 +123,6 @@ class MainActivity : AppCompatActivity(), CallBackResponse {
         loginViewModel.getUser().observe(this) { userModel ->
             if (userModel != null) {
                 if (userModel.isLogin) {
-                    Log.e("TAG", "onCreate: ${userModel.token}")
                     storyViewModel.getAllStoriesWithPage(userModel.token,1).observe(this) { pagingData ->
 
                         showRecyclerList(pagingData,listStoryAdapter)
