@@ -18,7 +18,7 @@ dan mengikuti course dari dicoding yaitu <a href="https://www.dicoding.com/acade
 - [X] List cerita
 - [X] Upload cerita user menggunakan foto & lokasi
 - [X] Menampilkan semua titik lokasi user
-
+- [X] Widget List Story
 # Yang di pelajari 
 - Android Advanced UI
 - Android Animation
