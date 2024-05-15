@@ -34,3 +34,5 @@ dan mengikuti course dari dicoding yaitu <a href="https://www.dicoding.com/acade
 # Tools & Languange
 - Kotlin
 - Android Studio
+- Postman
+- Firebase
